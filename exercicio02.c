@@ -16,3 +16,12 @@ int main (void){
     printf("%d Números são acima que a média... \n", cont);
     return 0;
 }
+
+// **Resultado:**
+
+// coloque 5 números: 7
+// 5
+// 6
+// 9
+// 3
+// 2 Números são acima que a média...
